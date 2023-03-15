@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\bin\Debug\Kolekcije_ocjenska.exe.config
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\bin\Debug\Kolekcije_ocjenska.exe
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\bin\Debug\Kolekcije_ocjenska.pdb
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.Form1.resources
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.exe
+C:\Users\ucenik\source\repos\Kolekcije_ocjenska\Kolekcije_ocjenska\obj\Debug\Kolekcije_ocjenska.pdb
